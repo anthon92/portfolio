@@ -23,14 +23,14 @@ Just copy and paste this into a section's `articles` array and see the magic hap
     "items": [
         {
             "id": 1,
-            "label": "Cupertino – CA",
+            "label": "Cebu – PH",
             "link": {"href": "", "tooltipString": ""},
             "faIcon": "fa-regular fa-address-book"
         },
         {
             "id": 2,
-            "label": "email@dev.com",
-            "link": {"href": "mailto:email@dev.com", "tooltipString": "email_me"},
+            "label": "anthony.huffman92@gmail.com",
+            "link": {"href": "mailto:anthony.huffman92@gmail.com", "tooltipString": "email_me"},
             "faIcon": "fa-regular fa-envelope"
         }
     ]

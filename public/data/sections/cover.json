@@ -5,25 +5,19 @@
                 "title_short": "Welcome!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Mark Choi!}}"
+                "title_long": "I'm {{Anthony Huffman!}}"
             },
             "es": {
                 "title_short": "¡Saludos!",
                 "title_short_nav": "Sobre mí",
                 "title_long_prefix": "Hola...",
-                "title_long": "Soy {{Mark Choi!}}"
+                "title_long": "Soy {{Anthony Huffman!}}"
             },
             "fr": {
                 "title_short": "Salut !",
                 "title_short_nav": "À propos",
                 "title_long_prefix": "Salut...",
-                "title_long": "Je suis {{Mark Choi !}}"
-            },
-            "ko": {
-                "title_short": "환영합니다!",
-                "title_short_nav": "소개",
-                "title_long_prefix": "안녕하세요...",
-                "title_long": "저는 {{최민석}}입니다!"
+                "title_long": "Je suis {{Anthony Huffman !}}"
             }
         }
     },
@@ -41,20 +35,20 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Cupertino – CA",
+                    "label": "Cebu – PH",
                     "link": {"href": "", "tooltipString": ""},
                     "faIcon": "pi pi-map-marker"
                 },
                 {
                     "id": 2,
-                    "label": "mark.choi@dev.com",
-                    "link": {"href": "mailto:mark.choi@dev.com", "tooltipString": "email_me"},
+                    "label": "anthony.huffman92@gmail.com",
+                    "link": {"href": "mailto:anthony.huffman92@gmail.com", "tooltipString": "email_me"},
                     "faIcon": "fa-regular fa-envelope"
                 },
                 {
                     "id": 3,
-                    "label": "@ryanbalieiro",
-                    "link": {"href": "https://github.com/ryanbalieiro", "tooltipString": "see_on_github"},
+                    "label": "@anthon92",
+                    "link": {"href": "https://github.com/anthon92", "tooltipString": "see_on_github"},
                     "faIcon": "fa-brands fa-github"
                 }
             ]
@@ -66,8 +60,7 @@
             "locales": {
                 "en": {"title": "{{A little bit}} about me..."},
                 "es": {"title": "{{Un poco}} sobre mí..."},
-                "fr": {"title": "{{Un peu}} à propos de moi..."},
-                "ko": {"title": "저에 {{대해 조금}}..."}
+                "fr": {"title": "{{Un peu}} à propos de moi..."}
             },
             "settings": {
                 "order_items_by": "id",
@@ -81,16 +74,13 @@
                     "faIconColors": {"bg": "", "fill": ""},
                     "locales": {
                         "en": {
-                            "text": "<p>I’m a {{PHP}} developer with [[over a decade]] of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs, whether it's building scalable APIs, optimizing system performance, or contributing to full-stack solutions.</p><p>I look forward to collaborating [[with you!]]</p>"
+                            "text": "<p>Innovative {{Full Stack}} Web Developer with [[over a decade]] years of extensive experience in designing, developing, and deploying scalable web applications and systems.</p><p>Proficient in both frontend and backend technologies, with a strong focus on user experience, application performance, and system integration.</p><p>Highly skilled in a wide range of programming languages and frameworks, as well as machine learning, data analysis.</p><p>Strong background in ERP solutions and blockchain technology, coupled with the ability to quickly adapt to new technologies and methodologies.</p>"
                         },
                         "es": {
-                            "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>¡Espero con interés colaborar [[contigo!]]</p>"
+                            "text": "<p>Innovative {{Full Stack}} Web Developer with [[over a decade]] years of extensive experience in designing, developing, and deploying scalable web applications and systems.</p><p>Proficient in both frontend and backend technologies, with a strong focus on user experience, application performance, and system integration.</p><p>Highly skilled in a wide range of programming languages and frameworks, as well as machine learning, data analysis.</p><p>Strong background in ERP solutions and blockchain technology, coupled with the ability to quickly adapt to new technologies and methodologies.</p>"
                         },
                         "fr": {
-                            "text": "<p>Je suis développeur {{PHP}} avec [[plus d'une décennie]] d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets, qu'il s'agisse de créer des API évolutives, d'améliorer les performances système ou de participer à des solutions full-stack.</p><p>Je suis impatient de collaborer [[avec vous !]]</p>"
-                        },
-                        "ko": {
-                            "text": "<p>저는 {{백엔드}} 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 [[10년 이상의]] 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다. 확장 가능한 API 구축, 시스템 성능 최적화, 또는 전체 스택 솔루션에 기여하는 등 다양한 분야에 능숙하게 참여할 수 있습니다. 저는 각 프로젝트에 맞는 최적의 도구를 찾는 것과 새로운 도전을 즐깁니다.</p><p>[[당신과 협업]]하기를 기대하고 있습니다!</p>"
+                            "text": "<p>Innovative {{Full Stack}} Web Developer with [[over a decade]] years of extensive experience in designing, developing, and deploying scalable web applications and systems.</p><p>Proficient in both frontend and backend technologies, with a strong focus on user experience, application performance, and system integration.</p><p>Highly skilled in a wide range of programming languages and frameworks, as well as machine learning, data analysis.</p><p>Strong background in ERP solutions and blockchain technology, coupled with the ability to quickly adapt to new technologies and methodologies.</p>"
                         }
                     }
                 }
@@ -103,8 +93,7 @@
             "locales": {
                 "en": {"title": "Client {{testimonials}}"},
                 "es": {"title": "Testimonios de {{clientes}}"},
-                "fr": {"title": "Témoignages de {{clients}}"},
-                "ko": {"title": "{{고객}} 추천사"}
+                "fr": {"title": "Témoignages de {{clients}}"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -130,10 +119,6 @@
                         "fr": {
                             "title": "PDG de [[SalesForce]]",
                             "text": "Travailler avec Mark fut une [[expérience transformante]]. Ses compétences en programmation et son esprit d’équipe ont élevé le projet et ravivé notre motivation et notre but."
-                        },
-                        "ko": {
-                            "title": "세일즈포스 CEO",
-                            "text": "Mark와 함께한 시간은 [[변화의 경험]]이었습니다. 그의 뛰어난 프로그래밍 실력과 협업 정신은 프로젝트 품질을 높이고 우리에게 새로운 동기를 불어넣었습니다."
                         }
                     }
                 },
@@ -156,10 +141,6 @@
                         "fr": {
                             "title": "Développeur Principal chez [[GitHub]]",
                             "text": "La présence de Mark fut un atout inestimable. Ses [[connaissances en programmation et son mentorat]] ont renforcé nos projets et notre capacité à relever les défis avec assurance."
-                        },
-                        "ko": {
-                            "title": "[[GitHub]] 수석 개발자",
-                            "text": "Mark는 소중한 자산이었습니다. 그의 [[깊은 프로그래밍 통찰력과 멘토링]]은 프로젝트를 향상시키고 도전을 자신감과 창의성으로 해결할 수 있게 해주었습니다."
                         }
                     }
                 },
@@ -182,10 +163,6 @@
                         "fr": {
                             "title": "Directrice Générale chez [[Dingga]]",
                             "text": "Travailler avec Mark a été un vrai [[tournant]]. Son [[expertise technique approfondie]], sa créativité et sa proactivité ont été d’une valeur inestimable pour notre développement."
-                        },
-                        "ko": {
-                            "title": "딩가 전무이사",
-                            "text": "Mark와의 협업은 진정한 [[게임 체인저]]였습니다. 그의 [[깊이 있는 기술 전문성]], 창의적인 문제 해결력, 능동적인 태도는 매우 소중한 자산이었습니다."
                         }
                     }
                 },
@@ -208,10 +185,6 @@
                         "fr": {
                             "title": "Directeur Créatif chez [[Dribbble]]",
                             "text": "L’[[attention aux détails]] et la [[pensée innovante]] de Mark Choi ont apporté une perspective nouvelle à tout notre processus de design ! Simplement incroyable !"
-                        },
-                        "ko": {
-                            "title": "[[Dribbble]] 크리에이티브 디렉터",
-                            "text": "마크 최의 [[세심한 배려]]와 [[혁신적인 사고]]가 전체 디자인 과정에 신선한 시각을 가져왔습니다! 정말 놀랍습니다!"
                         }
                     }
                 }
@@ -228,8 +201,7 @@
             "locales": {
                 "en": {"title": "Personal {{interests}}"},
                 "es": {"title": "Intereses {{personales}}"},
-                "fr": {"title": "Intérêts {{personnels}} "},
-                "ko": {"title": "개인 {{관심사}}"}
+                "fr": {"title": "Intérêts {{personnels}} "}
             },
             "items": [
                 {
@@ -251,10 +223,6 @@
                         "fr": {
                             "title": "Édition vidéo avec {{IA}}",
                             "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
-                        },
-                        "ko": {
-                            "title": "{{AI}} 비디오 편집",
-                            "text": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
                         }
                     }
                 },
@@ -277,10 +245,6 @@
                         "fr": {
                             "title": "{{Arts}} & Illustration",
                             "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
-                        },
-                        "ko": {
-                            "title": "{{예술}} 및 일러스트레이션",
-                            "text": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
                         }
                     }
                 },
@@ -303,10 +267,6 @@
                         "fr": {
                             "title": "{{Investissement}} & Finance",
                             "text": "Apprendre les bases des actions et des finances personnelles."
-                        },
-                        "ko": {
-                            "title": "{{투자}} 및 재정 관리",
-                            "text": "주식과 개인 재정의 기초 배우기."
                         }
                     }
                 },
@@ -329,10 +289,6 @@
                         "fr": {
                             "title": "Conception {{UX}}",
                             "text": "Étudier les principes de l'expérience utilisateur."
-                        },
-                        "ko": {
-                            "title": "{{UX}} 디자인",
-                            "text": "사용자 경험 원칙을 공부하기."
                         }
                     }
                 },
@@ -356,10 +312,6 @@
                         "fr": {
                             "title": "{{Photographie}} & Photoshop",
                             "text": "Améliorer des photos avec des techniques de montage créatives."
-                        },
-                        "ko": {
-                            "title": "{{사진}} 및 포토샵",
-                            "text": "창의적인 편집 기술을 통해 사진을 향상시키기."
                         }
                     }
                 },
@@ -382,10 +334,6 @@
                         "fr": {
                             "title": "Jouer de la {{batterie}}",
                             "text": "Explorer différents genres et améliorer mes compétences."
-                        },
-                        "ko": {
-                            "title": "{{드럼}} 연주",
-                            "text": "다양한 장르를 탐험하고 기술을 향상시키기."
                         }
                     }
                 }

@@ -113,7 +113,6 @@ const jStringsPath = "public/data/strings.json"
 const jStrings = jsonUtils.open(jStringsPath)
 delete jStrings.locales["es"]
 delete jStrings.locales["fr"]
-delete jStrings.locales["ko"]
 for(let i in jStrings.locales["en"]) {
     if(i.startsWith("see_") && i !== "see_more")
         delete jStrings.locales["en"][i]
