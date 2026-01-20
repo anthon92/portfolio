@@ -41,16 +41,16 @@
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "{{Website}} design",
+                            "title": "{{Website}} development",
                             "text": "I can bring your best ideas into life and make them a reality!"
                         },
                         "es": {
-                            "title": "{{Diseño}} de websites",
-                            "text": "¡Puedo hacer realidad tus mejores ideas y hacerlas reales!"
+                            "title": "{{Website}} development",
+                            "text": "I can bring your best ideas into life and make them a reality!"
                         },
                         "fr": {
-                            "title": "{{Conception}} de websites",
-                            "text": "Je peux donner vie à vos meilleures idées et les rendre réelles !"
+                            "title": "{{Website}} development",
+                            "text": "I can bring your best ideas into life and make them a reality!"
                         }
                     }
                 },
@@ -67,39 +67,17 @@
                             "text": "I can handle your data effectively and efficiently!"
                         },
                         "es": {
-                            "title": "Gestión de {{bases de datos}}",
-                            "text": "¡Puedo manejar sus datos de manera efectiva y eficiente!"
+                            "title": "{{Database}} management",
+                            "text": "I can handle your data effectively and efficiently!"
                         },
                         "fr": {
-                            "title": "Gestion de {{bases de données}}",
-                            "text": "Je peux gérer vos données de manière efficace et efficiente !"
+                            "title": "{{Database}} management",
+                            "text": "I can handle your data effectively and efficiently!"
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "img": "",
-                    "faIcon": "fa-solid fa-mobile-screen-button",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "date": {"year": null, "month": null},
-                    "link": {"href": "", "tooltipString": ""},
-                    "locales": {
-                        "en": {
-                            "title": "{{App}} creation",
-                            "text": "I can make creative and innovative apps!"
-                        },
-                        "es": {
-                            "title": "Creación de {{aplicaciones}}",
-                            "text": "¡Puedo hacer aplicaciones creativas e innovadoras!"
-                        },
-                        "fr": {
-                            "title": "Création {{d'applications}}",
-                            "text": "Je peux créer des applications créatives et innovantes !"
-                        }
-                    }
-                },
-                {
-                    "id": 4,
                     "img": "",
                     "faIcon": "fa-solid fa-window-restore",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -111,17 +89,17 @@
                             "text": "I can build API services!"
                         },
                         "es": {
-                            "title": "APIs {{REST}}",
-                            "text": "¡Puedo construir servicios API!"
+                            "title": "{{REST}} APIs",
+                            "text": "I can build API services!"
                         },
                         "fr": {
-                            "title": "APIs {{REST}}",
-                            "text": "Je peux créer des services API !"
+                            "title": "{{REST}} APIs",
+                            "text": "I can build API services!"
                         }
                     }
                 },
                 {
-                    "id": 5,
+                    "id": 4,
                     "img": "",
                     "faIcon": "fa-solid fa-lock",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -133,26 +111,24 @@
                             "text": "Security is my middle name!"
                         },
                         "es": {
-                            "title": "{{Seguridad}} Informática",
-                            "text": "¡La seguridad es mi segundo nombre!"
+                            "title": "Information {{Security}}",
+                            "text": "Security is my middle name!"
                         },
                         "fr": {
-                            "title": "{{Sécurité}} Informatique",
-                            "text": "La sécurité est mon deuxième prénom !"
+                            "title": "Information {{Security}}",
+                            "text": "Security is my middle name!"
                         }
                     }
                 }
             ]
         },
-
         {
             "id": 2,
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Backend Stack"},
                 "es": {"title": "Stack de Backend"},
-                "fr": {"title": "Stack Backend"},
-                "zh": {"title": "后端技术栈"}
+                "fr": {"title": "Stack Backend"}
             },
             "settings": {
                 "max_items_per_row": 3,
@@ -176,10 +152,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Desarrollador certificado por la Fundación Node.js."
+                            "text": "Certified developer by Node.js Foundation."
                         },
                         "fr": {
-                            "text": "Développeur certifié par la Node.js Foundation."
+                            "text": "Certified developer by Node.js Foundation."
                         }
                     }
                 },
@@ -189,7 +165,7 @@
                     "faIcon": "fa-brands fa-java",
                     "faIconColors": {"bg": "", "fill": "#0295c2", "fillLight": "#007396"},
                     "date": {"year": 2019, "month": 10},
-                    "percentage": 95,
+                    "percentage": 75,
                     "locales": {
                         "en": {
                             "title": "Java",
@@ -197,31 +173,31 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Desarrollador de Java certificado por Oracle con un sólido entendimiento de su ecosistema."
+                            "text": "Oracle certified Java developer with a strong understanding of its ecosystem."
                         },
                         "fr": {
-                            "text": "Développeur Java certifié Oracle avec une bonne compréhension de son écosystème."
+                            "text": "Oracle certified Java developer with a strong understanding of its ecosystem."
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "img": "",
-                    "faIcon": "fa-solid fa-gem",
+                    "img": "images/pictures/golang.png",
+                    "faIcon": "",
                     "faIconColors": {"bg": "", "fill": "#CC0000"},
                     "date": {"year": 2020, "month": 8},
-                    "percentage": 80,
+                    "percentage": 60,
                     "locales": {
                         "en": {
-                            "title": "Ruby on Rails",
-                            "text": "Complete understanding of Ruby on Rails for building web applications.",
+                            "title": "Go",
+                            "text": "Complete understanding of Go for building web applications.",
                             "level": ""
                         },
                         "es": {
-                            "text": "Comprensión completa de Ruby on Rails para construir aplicaciones web."
+                            "text": "Complete understanding of Go for building web applications."
                         },
                         "fr": {
-                            "text": "Compréhension complète de Ruby on Rails pour créer des applications web."
+                            "text": "Complete understanding of Go for building web applications."
                         }
                     }
                 },
@@ -239,10 +215,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Puedo gestionar y optimizar bases de datos MySQL para rendimiento y fiabilidad."
+                            "text": "I can manage and optimize MySQL databases for performance and reliability."
                         },
                         "fr": {
-                            "text": "Je peux gérer et optimiser les bases de données MySQL pour la performance et la fiabilité."
+                            "text": "I can manage and optimize MySQL databases for performance and reliability."
                         }
                     }
                 },
@@ -260,10 +236,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Conocimientos prácticos de Docker para la contenedorización."
+                            "text": "Working knowledge of Docker for containerization."
                         },
                         "fr": {
-                            "text": "Connaissance pratique de Docker pour la conteneurisation."
+                            "text": "Working knowledge of Docker for containerization."
                         }
                     }
                 },
@@ -281,10 +257,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Sólido entendimiento de PHP y sus frameworks."
+                            "text": "Strong understanding of PHP and its frameworks."
                         },
                         "fr": {
-                            "text": "Bonne compréhension de PHP et de ses frameworks."
+                            "text": "Strong understanding of PHP and its frameworks."
                         }
                     }
                 },
@@ -302,10 +278,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Análisis de datos y aprendizaje automático con Python."
+                            "text": "Data analysis and machine learning with Python."
                         },
                         "fr": {
-                            "text": "Analyse de données et apprentissage automatique avec Python."
+                            "text": "Data analysis and machine learning with Python."
                         }
                     }
                 },
@@ -315,7 +291,7 @@
                     "faIcon": "fa-solid fa-life-ring",
                     "faIconColors": {"bg": "", "fill": "#326CE5"},
                     "date": {"year": 2021, "month": 7},
-                    "percentage": 80,
+                    "percentage": 60,
                     "locales": {
                         "en": {
                             "title": "Kubernetes",
@@ -323,10 +299,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Devoto total de Kubernetes para la orquestación y gestión de contenedores."
+                            "text": "Total devotee of Kubernetes for container orchestration and management."
                         },
                         "fr": {
-                            "text": "Total dévoué à Kubernetes pour l'orchestration et la gestion des conteneurs."
+                            "text": "Total devotee of Kubernetes for container orchestration and management."
                         }
                     }
                 },
@@ -336,7 +312,7 @@
                     "faIcon": "fa-solid fa-server",
                     "faIconColors": {"bg": "", "fill": "#47A248"},
                     "date": {"year": 2024, "month": 5},
-                    "percentage": 50,
+                    "percentage": 85,
                     "locales": {
                         "en": {
                             "title": "MongoDB",
@@ -359,10 +335,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Comprensión completa de Git para control de versiones y colaboración."
+                            "text": "Complete understanding of Git for version control and collaboration."
                         },
                         "fr": {
-                            "text": "Compréhension complète de Git pour le contrôle de version et la collaboration."
+                            "text": "Complete understanding of Git for version control and collaboration."
                         }
                     }
                 }
@@ -375,8 +351,7 @@
             "locales": {
                 "en": {"title": "Frontend Stack"},
                 "es": {"title": "Stack de Frontend"},
-                "fr": {"title": "Stack Frontend"},
-                "zh": {"title": "前端技术栈"}
+                "fr": {"title": "Stack Frontend"}
             },
             "settings": {
                 "max_items_per_row": 3,
@@ -400,10 +375,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Soy competente en HTML5 para construir páginas web estructuradas."
+                            "text": "I am proficient in HTML5 for building structured web pages."
                         },
                         "fr": {
-                            "text": "Je suis compétent en HTML5 pour créer des pages web structurées."
+                            "text": "I am proficient in HTML5 for building structured web pages."
                         }
                     }
                 },
@@ -413,7 +388,7 @@
                     "faIcon": "fa-brands fa-css3-alt",
                     "faIconColors": {"bg": "", "fill": "#1572B6"},
                     "date": {"year": 2019, "month": 1},
-                    "percentage": 65,
+                    "percentage": 90,
                     "locales": {
                         "en": {
                             "title": "CSS 3",
@@ -421,10 +396,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Puedo crear diseños receptivos y visualmente atractivos utilizando CSS3."
+                            "text": "I can create responsive and visually appealing designs using CSS3."
                         },
                         "fr": {
-                            "text": "Je peux créer des designs réactifs et visuellement attrayants en utilisant CSS3."
+                            "text": "I can create responsive and visually appealing designs using CSS3."
                         }
                     }
                 },
@@ -442,10 +417,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Dominio de JavaScript ES6+ para aplicaciones web dinámicas e interactivas."
+                            "text": "Mastered JavaScript ES6+ for dynamic and interactive web applications."
                         },
                         "fr": {
-                            "text": "Maîtrisé JavaScript ES6+ pour des applications web dynamiques et interactives."
+                            "text": "Mastered JavaScript ES6+ for dynamic and interactive web applications."
                         }
                     }
                 },
@@ -463,10 +438,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Comprensión completa de React para construir aplicaciones web modernas."
+                            "text": "Complete understanding of React for building modern web applications."
                         },
                         "fr": {
-                            "text": "Compréhension complète de React pour créer des applications web modernes."
+                            "text": "Complete understanding of React for building modern web applications."
                         }
                     }
                 },
@@ -476,7 +451,7 @@
                     "faIcon": "fa-brands fa-vuejs",
                     "faIconColors": {"bg": "", "fill": "#4FC08D", "fillLight": "#2b825b"},
                     "date": {"year": 2023, "month": 8},
-                    "percentage": 40,
+                    "percentage": 80,
                     "locales": {
                         "en": {
                             "title": "Vue.js",
@@ -484,10 +459,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Buena comprensión de Vue.js para construir interfaces de usuario interactivas."
+                            "text": "Good understanding of Vue.js for building interactive user interfaces."
                         },
                         "fr": {
-                            "text": "Bonne compréhension de Vue.js pour créer des interfaces utilisateur interactives."
+                            "text": "Good understanding of Vue.js for building interactive user interfaces."
                         }
                     }
                 },
@@ -505,10 +480,10 @@
                             "level": ""
                         },
                         "es": {
-                            "text": "Buena comprensión de Bootstrap para diseño receptivo."
+                            "text": "Good understanding of Bootstrap for responsive design."
                         },
                         "fr": {
-                            "text": "Bonne compréhension de Bootstrap pour le design réactif."
+                            "text": "Good understanding of Bootstrap for responsive design."
                         }
                     }
                 }
@@ -520,9 +495,8 @@
             "component": "ArticleSkills",
             "locales": {
                 "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"},
-                "fr": {"title": "Langues"},
-                "zh": {"title": "语言"}
+                "es": {"title": "Languages"},
+                "fr": {"title": "Languages"}
             },
             "settings": {
                 "max_items_per_row": 1,
@@ -542,93 +516,18 @@
                     "locales": {
                         "en": {
                             "title": "English",
-                            "text": "Native speaker with excellent communication and writing skills.",
-                            "level": "Native"
-                        },
-                        "es": {
-                            "title": "Inglés",
-                            "text": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-                            "level": "Nativo"
-                        },
-                        "fr": {
-                            "title": "Anglais",
-                            "text": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "level": "Natif"
-                        }
-                    }
-                },
-                {
-                    "id": 2,
-                    "img": "images/flags/fr.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "date": {"year": null, "month": null},
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "French",
-                            "text": "Fluent in both spoken and written French; confident in professional communication.",
+                            "text": "Fluent in both spoken and written English; confident in professional communication.",
                             "level": "Fluent"
                         },
                         "es": {
-                            "title": "Francés",
-                            "text": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
-                            "level": "Fluido"
+                            "title": "English",
+                            "text": "Fluent in both spoken and written English; confident in professional communication.",
+                            "level": "Fluent"
                         },
                         "fr": {
-                            "title": "Français",
-                            "text": "Fluent en français parlé et écrit ; confiant dans la communication professionnelle.",
-                            "level": "Courant"
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "img": "images/flags/vi.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "date": {"year": null, "month": null},
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Vietnamese",
-                            "text": "Intermediate proficiency in Vietnamese language; I can hold conversations and understand written text.",
-                            "level": "Intermediate"
-                        },
-                        "es": {
-                            "title": "Vietnamita",
-                            "text": "Competencia intermedia en el idioma vietnamita; puedo mantener conversaciones y entender textos escritos.",
-                            "level": "Intermedio"
-                        },
-                        "fr": {
-                            "title": "Vietnamien",
-                            "text": "Compétence intermédiaire en vietnamien ; je peux tenir des conversations et comprendre des textes écrits.",
-                            "level": "Intermédiaire"
-                        }
-                    }
-                },
-                {
-                    "id": 4,
-                    "img": "images/flags/ko.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "date": {"year": null, "month": null},
-                    "percentage": null,
-                    "locales": {
-                        "en": {
-                            "title": "Korean",
-                            "text": "Basic understanding of Korean; learning and improving.",
-                            "level": "Basic"
-                        },
-                        "es": {
-                            "title": "Coreano",
-                            "text": "Comprensión básica del coreano; aprendiendo y mejorando.",
-                            "level": "Básico"
-                        },
-                        "fr": {
-                            "title": "Coréen",
-                            "text": "Compréhension de base du coréen; en apprentissage et amélioration.",
-                            "level": "Basique"
+                            "title": "English",
+                            "text": "Fluent in both spoken and written English; confident in professional communication.",
+                            "level": "Fluent"
                         }
                     }
                 }

@@ -71,7 +71,7 @@
                 },
                 {
                     "id": 2,
-                    "img": "images/pictures/timeline-place-coursera.png",
+                    "img": "images/pictures/timeline-place-sapphire-studio.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2015, "month": 2},
@@ -108,7 +108,7 @@
                 },
                 {
                     "id": 3,
-                    "img": "images/pictures/timeline-place-adobe.png",
+                    "img": "images/pictures/timeline-place-sapphire-studio.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2017, "month": 1},
@@ -145,7 +145,7 @@
                 },
                 {
                     "id": 4,
-                    "img": "images/pictures/timeline-place-adobe.png",
+                    "img": "images/pictures/timeline-place-sapphire-studio.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2019, "month": 5},
@@ -182,7 +182,7 @@
                 },
                 {
                     "id": 5,
-                    "img": "images/pictures/timeline-place-adobe.png",
+                    "img": "images/pictures/timeline-place-sapphire-studio.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2023, "month": 1},
@@ -219,7 +219,7 @@
                 },
                 {
                     "id": 6,
-                    "img": "",
+                    "img": "images/pictures/timeline-place-sapphire-studio.png",
                     "faIcon": "fa-brands fa-apple",
                     "faIconColors": {"bg": "#111", "fill": "#EEE"},
                     "dateStart": {"year": 2024, "month": 7},
