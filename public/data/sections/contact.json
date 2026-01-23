@@ -82,7 +82,7 @@
                     "id": 2,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@anthonyhuffman",
+                    "label": "@anthony.huffman",
                     "link": {"href": "https://www.linkedin.com/in/anthony-h-16108a191/", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
