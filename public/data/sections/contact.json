@@ -82,7 +82,7 @@
                     "id": 2,
                     "faIcon": "fa-brands fa-linkedin",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@anthony.huffman",
+                    "label": "Anthony Huffman",
                     "link": {"href": "https://www.linkedin.com/in/anthony-h-16108a191/", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
@@ -94,7 +94,7 @@
                     "faIcon": "fa-brands fa-facebook",
                     "faIconColors": { "bg": "", "fill": "" },
                     "label": "Anthony Huffman",
-                    "link": {"href": "https://facebook.com/profiles/anthony.huffman/default", "tooltipString": "open_website"},
+                    "link": {"href": "https://www.facebook.com/profile.php?id=61563768285818", "tooltipString": "open_website"},
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {"title": "Facebook"}
