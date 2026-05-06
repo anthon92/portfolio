@@ -55,37 +55,102 @@
                 {
                     "id": 1,
                     "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-3.png",
+                    "img": "images/pictures/portfolio-ntro.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://npm.com", "tooltipString": "see_on_npm", "faIcon": "fa-brands fa-npm"}
+                            {"href": "https://www.ntro.io", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-1.png",
-                            "images/pictures/screenshot-demo-landscape-2.png",
-                            "images/pictures/screenshot-demo-landscape-3.png",
-                            "images/pictures/screenshot-demo-landscape-4.png",
-                            "images/pictures/screenshot-demo-landscape-5.png"
+
                         ],
-                        "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=PnV8p1xm7-o"
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
-                            "title": "BrainPulse",
-                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "Ntro.io-Interview Copilot",
+                            "text": "Realtime AI assistant for all types of job interviews. Free forever and 100% stealth combined with Android/iPhone mobile apps.",
+                            "tags": ["AI", "Chrome Extension", "FastAPI"]
                         },
                         "es": {
-                            "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "Ntro.io-Interview Copilot",
+                            "text": "Realtime AI assistant for all types of job interviews. Free forever and 100% stealth combined with Android/iPhone mobile apps.",
+                            "tags": ["AI", "Chrome Extension", "FastAPI"]
                         },
                         "fr": {
-                            "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, conçu pour le traitement de données haute performance et la gestion d'événements en temps réel.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "Ntro.io-Interview Copilot",
+                            "text": "Realtime AI assistant for all types of job interviews. Free forever and 100% stealth combined with Android/iPhone mobile apps.",
+                            "tags": ["AI", "Chrome Extension", "FastAPI"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-faktorzwei.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://faktorzwei.ch/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Faktorzwei",
+                            "text": "faktorzwei.ch is the website for faktor zwei GmbH, a Swiss digital agency based in Birmenstorf AG, Switzerland. They offer full-service digital solutions from concept to launch and maintenance.",
+                            "tags": ["Redaxo", "PHP", "Javascript"]
+                        },
+                        "es": {
+                            "title": "Faktorzwei",
+                            "text": "faktorzwei.ch is the website for faktor zwei GmbH, a Swiss digital agency based in Birmenstorf AG, Switzerland. They offer full-service digital solutions from concept to launch and maintenance.",
+                            "tags": ["Redaxo", "PHP", "Javascript"]
+                        },
+                        "fr": {
+                            "title": "Faktorzwei",
+                            "text": "faktorzwei.ch is the website for faktor zwei GmbH, a Swiss digital agency based in Birmenstorf AG, Switzerland. They offer full-service digital solutions from concept to launch and maintenance.",
+                            "tags": ["Redaxo", "PHP", "Javascript"]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-megamillions.png",
+                    "faIcon": "fa-solid fa-guitar",
+                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
+                    "preview": {
+                        "links": [
+                            {"href": "https://megamillionsnaija.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+
+                        ],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Megamilliions",
+                            "text": "MegaMillions Naija (megamillionsnaija.com) is a Nigeria-based online platform for playing international lotteries like Mega Millions, licensed by the National Lottery Regulatory Commission",
+                            "tags": ["NodeJS", "NextJS", "MongoDB"]
+                        },
+                        "es": {
+                            "title": "Megamilliions",
+                            "text": "MegaMillions Naija (megamillionsnaija.com) is a Nigeria-based online platform for playing international lotteries like Mega Millions, licensed by the National Lottery Regulatory Commission",
+                            "tags": ["NodeJS", "NextJS", "MongoDB"]
+                        },
+                        "fr": {
+                            "title": "Megamilliions",
+                            "text": "MegaMillions Naija (megamillionsnaija.com) is a Nigeria-based online platform for playing international lotteries like Mega Millions, licensed by the National Lottery Regulatory Commission",
+                            "tags": ["NodeJS", "NextJS", "MongoDB"]
                         }
                     }
                 },
@@ -103,7 +168,7 @@
 
                         ],
                         "screenshotsAspectRatio": "",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww"
+                        "youtubeVideo": ""
                     },
                     "locales": {
                         "en": {
@@ -122,109 +187,7 @@
                             "tags": ["Next.js", "Finance", "Argent"]
                         }
                     }
-                },
-                {
-                    "id": 6,
-                    "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-5.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "preview": {
-                        "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
-                        ],
-                        "screenshots": [
-
-                        ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Sweet Scoops",
-                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-                            "tags": ["WooCommerce", "Food", "Desserts"]
-                        },
-                        "es": {
-                            "title": "Sweet Scoops",
-                            "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
-                            "tags": ["WooCommerce", "Comida", "Postres"]
-                        },
-                        "fr": {
-                            "title": "Sweet Scoops",
-                            "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
-                            "tags": ["WooCommerce", "Cuisine", "Desserts"]
-                        }
-                    }
-                },
-                {
-                    "id": 7,
-                    "categoryId": "category_web",
-                    "img": "",
-                    "faIcon": "fa-solid fa-guitar",
-                    "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
-                    "preview": {
-                        "links": [
-                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
-                        ],
-                        "screenshots": [
-
-                        ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": ""
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
-                        },
-                        "es": {
-                            "title": "RockVerse",
-                            "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
-                            "tags": ["Django", "Música", "Rock"]
-                        },
-                        "fr": {
-                            "title": "RockVerse",
-                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-                            "tags": ["Django", "Musique", "Rock"]
-                        }
-                    }
-                },
-                {
-                    "id": 8,
-                    "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-4.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "preview": {
-                        "links": [
-
-                        ],
-                        "screenshots": [
-
-                        ],
-                        "screenshotsAspectRatio": "",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Soccer Analytics",
-                            "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
-                            "tags": ["AI", "Prediction", "Soccer"]
-                        },
-                        "es": {
-                            "title": "Soccer Analytics",
-                            "text": "Una plataforma de análisis deportivo impulsada por IA construida con <b>Python</b> y <b>TensorFlow</b>, que ofrece <b>predicciones</b> detalladas de fútbol y herramientas de gestión de equipos.",
-                            "tags": ["IA", "Predicción", "Fútbol"]
-                        },
-                        "fr": {
-                            "title": "Soccer Analytics",
-                            "text": "Une plateforme d'analytique sportive alimentée par IA construite avec <b>Python</b> et <b>TensorFlow</b>, offrant des <b>prédictions</b> détaillées pour le football et des outils de gestion d'équipe.",
-                            "tags": ["IA", "Prédiction", "Football"]
-                        }
-                    }
-                }
+                }                
             ]
         }
     ]
